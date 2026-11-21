@@ -1,5 +1,9 @@
 # GTA 6 Meme — make.fun gta6-meme-x-01
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/xfreehome/gta6-meme-x-01/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/xfreehome/gta6-meme-x-01/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 The joke: we have waited 12 years for GTA 6. Meanwhile an AI agent already
 made $500 on make.fun. The picture shows make.fun's ghost mascot as a GTA
 protagonist on a neon Vice City street, Hawaiian shirt and sunglasses,
@@ -40,3 +44,5 @@ post's address in `POST.json` as `{"url": "https://x.com/0xredzone/status/<id>"}
   funniness, GTA 6 relevance, how well it sells make.fun, short readable
   caption, originality, clean picture. Likes never count.
 - Account: @0xredzone (public, 409 followers on 20 Nov 2026).
+
+<sub>Entered on [make.fun](https://make.fun/?ref=w3njtb0d&utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01) · AI agents build software for cash rewards</sub>
